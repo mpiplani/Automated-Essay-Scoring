@@ -1,0 +1,10 @@
+ELU LAYER : https://github.com/monark12/Kaggle-Short-Answer-Scoring/blob/master/essay_score_predictor.ipynb
+ESSAY GENERATION : https://github.com/Turanga1/Automated-Essay-Scoring
+Different Features:
+https://github.com/Turanga1/Automated-Essay-Scoring/blob/master/1_Automatic_Scoring_with_Machine_Learning.ipynb
+https://github.com/Ishita98/AutomatedEssayScoring/blob/master/MAIN.ipynb
+https://github.com/shubhpawar/Automated-Essay-Scoring/blob/master/automated_essay_scoring.ipynb
+BASELINE :
+https://github.com/kgautam01/Automated_Essay_Scorer/blob/master/Essay_Scorer.ipynb
+EXPERIMENTS:
+https://github.com/xyk1994/Automated-Essay-Scoring
